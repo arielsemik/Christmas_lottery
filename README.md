@@ -1,1 +1,1 @@
-# Christmas_lottery
+# Christmas_lottery in Python
